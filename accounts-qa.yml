@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome back"
+  contactDetails:
+    name: "Someone - QA"
+    email: "someone@gmail.com"
+  onCallSupport:
+    - (666)123-456
+    - (666)456-123

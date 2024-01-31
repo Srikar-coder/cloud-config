@@ -1,0 +1,18 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: "accounts"
+  profiles:
+    active: "prod"
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome"
+  contactDetails:
+    name: "Srikar - Developer"
+    email: "something@gmail.com"
+  onCallSupport:
+    - (555)123-456
+    - (555)456-123
