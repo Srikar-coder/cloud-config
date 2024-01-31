@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "accounts"
+    name: "cards"
 
 build:
   version: "3.0"
