@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome back to production api's"
+  message: "Welcome back to prod api's"
   contactDetails:
     name: "Someone - PROD"
     email: "prod@gmail.com"
